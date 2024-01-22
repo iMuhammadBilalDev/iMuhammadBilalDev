@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Bilal 👋
 
 ### I'm a Software Engineer!
-- 🔭 I’m currently working as Full Stack Developer.
+- 🔭 I’m currently ReactJs Developer.
 - 🌱 I’m currently learning Spring Boot & Go.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
