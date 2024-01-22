@@ -1,4 +1,4 @@
-# Hi there, I'm Abu Bakar 👋
+# Hi there, I'm Muhammad Bilal 👋
 
 ### I'm a Software Engineer!
 - 🔭 I’m currently working as Full Stack Developer.
