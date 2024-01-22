@@ -130,11 +130,11 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/iabubakardev">
+<a href="https://github.com/iMuhammadBilalDev">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iabubakardev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iabubakardev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMuhammadBilalDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=iabubakardev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=iMuhammadBilalDev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 
