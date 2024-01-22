@@ -124,7 +124,7 @@
 <a href="https://www.Bilal.dev"><img src="https://img.shields.io/badge/-www.Bilal.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/imuhammadbilaldev"><img src="https://img.shields.io/badge/-@iMuhammadBilalDev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mbilalsoomroo@gmail.com"><img src="https://img.shields.io/badge/-mbilalsoomro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/iabubakardev"><img src="https://img.shields.io/badge/-@iabubakardev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://https://www.instagram.com/sahilsoomroo/"><img src="https://img.shields.io/badge/-@iMuhammadBilalDev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/bilal.soomro.9619"><img src="https://img.shields.io/badge/-@iMuhammadBilalDev-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
