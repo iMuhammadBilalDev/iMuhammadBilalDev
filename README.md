@@ -8,63 +8,46 @@
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
-<table width="100">
-<tr>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-    
-    
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
-    
-</tr>
-<tr>
-    <td align='center'>
-       <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-   
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-   
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" height="60">
-    </td>
-    
-    
-    
-</tr>
-<tr>
-   
-   
-   
-   
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-</tr>
-<tr>
-    
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
-    </td>
-    
-   
-</tr>
+<table width="100%">
+        <tr>
+            <td align="center" width="25%">
+                <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60" alt="JavaScript Logo">
+            </td>
 
-
-</table>
-
+            <td align="center" width="25%">
+                <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100" alt="Git Logo">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png" alt="Angular Logo">
+            </td>
+            <td align="center">
+                <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node.js Logo">
+            </td>
+            <td align="center">
+                <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React Logo">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60" alt="HTML5 Logo">
+            </td>
+            <td align="center">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" height="60" alt="CSS3 Logo">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase Logo">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="WordPress Logo">
+            </td>
+        </tr>
+    </table>
 <br />
 <br />
 
