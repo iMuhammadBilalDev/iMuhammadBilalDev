@@ -27,15 +27,11 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    </td>
+   
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png">
-    </td>
+   
 </tr>
 <tr>
     <td align='center'>
@@ -44,69 +40,29 @@
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60" height="60">
     </td>
-    <td align='center'>
-        <img src="https://ivazz.com/wp-content/uploads/2021/05/sass-1.png">
-    </td>
-    <td align='center'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77HqLejjS2HnEBfFpjm9FKySMFLTYMJxmM-JF9AAjzB2G6-8PtzLyRhQdtrA-ipvp6Rs&usqp=CAU" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
-    </td>
+    
+    
+    
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center'>
-        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
+   
+   
+   
+   
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" >
-    </td>
+    
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg">
-    </td>
+    
+   
 </tr>
 
-<tr>
-    <td align='center'>
-        <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.kindpng.com/picc/m/152-1522193_serverless-framework-serverless-inc-hd-png-download.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" height="80" width="90" >
-    </td>
-    <td align='center'>
-        <img src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png" >
-    </td>
-</tr>
-    
+
 </table>
 
 <br />
