@@ -8,7 +8,6 @@
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
