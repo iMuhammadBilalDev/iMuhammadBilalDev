@@ -13,18 +13,12 @@
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="60">
-    </td>
+    
+    
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
-    <td align='center' width="190">
-        <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" height="80">
-    </td>
+    
 </tr>
 <tr>
     <td align='center'>
