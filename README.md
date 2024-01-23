@@ -17,13 +17,13 @@
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     
-    
+     <td align='center'>
+       <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png">
+    </td>
     
 </tr>
 <tr>
-    <td align='center'>
-       <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-logo-1.png">
-    </td>
+   
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
